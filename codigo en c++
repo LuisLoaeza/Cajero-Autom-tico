@@ -1,0 +1,11 @@
+Cajero-Autom-tico
+=================
+
+Programa que si simule un cajero electrónico que empiece en una cantidad inicial de 60 mil pesos, simulará que el usuario  va a retirar, transferir, o ingresar dinero. Cuando el cajero no tenga efectivo te lo tiene que avisar ("no hay efectivo"). El usuario simulará que ingresa que ingresa su código de su tarjeta y al final imprima el ticket de las transacciones que el usuario realizó en el cajero.
+
+#include <stdio.h>
+#inculde <iostream>
+
+int main ()
+
+printf "jaja"
